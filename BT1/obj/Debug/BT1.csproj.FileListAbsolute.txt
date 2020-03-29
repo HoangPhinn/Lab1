@@ -9,3 +9,13 @@ D:\PHI\Bài tập\Lập trình mạng căn bản\Lab1\BT1\obj\Debug\BT1.pdb
 E:\PHI\Bài tập\Lập trình mạng căn bản\Lab1\BT1\bin\Debug\BT1.exe.config
 E:\PHI\Bài tập\Lập trình mạng căn bản\Lab1\BT1\obj\Debug\BT1.exe
 E:\PHI\Bài tập\Lập trình mạng căn bản\Lab1\BT1\obj\Debug\BT1.pdb
+C:\Users\DINH DUC TAM\Desktop\HK2\LTMCB\TH\lab1\Lab1\BT1\bin\Debug\BT1.exe.config
+C:\Users\DINH DUC TAM\Desktop\HK2\LTMCB\TH\lab1\Lab1\BT1\bin\Debug\BT1.exe
+C:\Users\DINH DUC TAM\Desktop\HK2\LTMCB\TH\lab1\Lab1\BT1\bin\Debug\BT1.pdb
+C:\Users\DINH DUC TAM\Desktop\HK2\LTMCB\TH\lab1\Lab1\BT1\obj\Debug\BT1.csprojAssemblyReference.cache
+C:\Users\DINH DUC TAM\Desktop\HK2\LTMCB\TH\lab1\Lab1\BT1\obj\Debug\BT1.Form1.resources
+C:\Users\DINH DUC TAM\Desktop\HK2\LTMCB\TH\lab1\Lab1\BT1\obj\Debug\BT1.Properties.Resources.resources
+C:\Users\DINH DUC TAM\Desktop\HK2\LTMCB\TH\lab1\Lab1\BT1\obj\Debug\BT1.csproj.GenerateResource.cache
+C:\Users\DINH DUC TAM\Desktop\HK2\LTMCB\TH\lab1\Lab1\BT1\obj\Debug\BT1.csproj.CoreCompileInputs.cache
+C:\Users\DINH DUC TAM\Desktop\HK2\LTMCB\TH\lab1\Lab1\BT1\obj\Debug\BT1.exe
+C:\Users\DINH DUC TAM\Desktop\HK2\LTMCB\TH\lab1\Lab1\BT1\obj\Debug\BT1.pdb
